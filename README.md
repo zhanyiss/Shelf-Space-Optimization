@@ -1,7 +1,6 @@
 # Fitting-Shelves-Problem
 
   Shelf space maximisation is one of key factors behind any marketing strategy for a brand. In this article, I will explain some challenges in shelf space optimization and then solve an example using python. 
-  Optimization
   
 Optimization is the science / process behind finding the best solution for a problem with given constraints. We basically take a real world problem, model it mathematically and then solve it using mathematical techniques with in the constraints. Optimization is useful in Marketing, Manufacturing, Finance, Online advertising, Machine Learning and all fields you can imagine.
 
